@@ -1,0 +1,36 @@
+@keyframes MostrarCartaoDeLado {
+    from {
+        opacity: 0;
+        transform: translateX(-40%);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+
+@keyframes MostrarListagemDeCima {
+    from {
+        opacity: 0;
+        transform: translateY(-40%);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes barra{
+    from{
+        background-color:#a4a4a4;
+        transform: translateX(-30%);
+    }
+
+    to{
+        background-color:#2a75bb;
+        transform: translateX(0);
+    }
+}
