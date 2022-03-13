@@ -71,7 +71,7 @@ Eu estarei adicionando mais coisas em um futuro próximo. Você também pode sug
    ```sh
    $ git clone https://github.com/jaofernandes/devweek-poke-dex.git
    
-   $ cd devmap-pokedex/
+   $ cd devweek-poke-dex/
 
 <!-- LICENÇA -->
 ## Licenças
