@@ -23,7 +23,7 @@
     <li>
       <a href="#Sobre-o-Projeto">Sobre o Projeto</a>
       <ul>
-        <li><a href="#Criado-com">Criado com</a></li>
+        <li><a href="#Criado-usando">Criado usando</a></li>
       </ul>
     </li>
         <li><a href="#instalação">Instalação</a></li>
@@ -52,7 +52,7 @@ Segue o modelo:
 
 Eu estarei adicionando mais coisas em um futuro próximo. Você também pode sugerir alterações bifurcando este repositório, criando uma solicitação pull ou abrindo um problema.
 
-### Criado Com
+### Criado usando
 
 * HTML
 * CSS
