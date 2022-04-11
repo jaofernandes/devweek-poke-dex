@@ -86,7 +86,5 @@ Distribuído sob a licença MIT. Veja 'LICENSE.txt' para mais informações.
   <a href="https://www.linkedin.com/in/jo%C3%A3o-fernandes-4476b8175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/juao.fer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
-  
-  Email: joaovitor.vgs3@outlook.com
 
 <p align="right">(<a href="#top">Volte para o topo.</a>)</p>
